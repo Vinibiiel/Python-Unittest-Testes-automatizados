@@ -8,7 +8,12 @@
 
 ## Descrição do projeto
 <p>O projeto é constituido por 2 codigos, um onde tem uma classe chamada Operações, que contem operações aritméticas de soma,subtração,multiplicação e divisão, e no outro arquivo, é onde se encontra os testes para o arquivo operações, testes de assertequals entre outros.
+  
 Note que as legendas estão em inglês apenas por ser uma boa pratica ao escrever um código.
+  
+Outra coisa, como era apenas uma demonstração do funcionamento da biblioteca unittest, não utilizei de diretórios próprios para os arquivos de testes propriamente, mas em projeto de maior escala é necessário essa organização... É UMA BOA PRÁTICA!!
+  
+Bons estudos.
 </p>
 
 
